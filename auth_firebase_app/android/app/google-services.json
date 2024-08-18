@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56154688745",
+    "project_id": "test-flutter-apps-192b9",
+    "storage_bucket": "test-flutter-apps-192b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56154688745:android:d0466b1fbff24852763478",
+        "android_client_info": {
+          "package_name": "com.axceldev.auth_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbD5_vhZdz3DcyQLSnkttAgu_rIqCF80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
